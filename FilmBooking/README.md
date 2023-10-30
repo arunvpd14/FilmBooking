@@ -1,4 +1,4 @@
-# Movie-seat-project
+# Film-Booking-project
 Spring boot, Movie seat selection mechanism, Spring Data Jpa, Thymeleaf,
 
 just clone the repo
